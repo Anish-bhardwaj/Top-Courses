@@ -22,4 +22,4 @@ export const filterData = [
 ];
 
 // export const apiUrl = "https://codehelp-apis.vercel.app/api/get-top-courses";
-export const apiUrl = "https://course-data-pqa4.onrender.com/data";
+export const apiUrl = "https://codehelp-apis.vercel.app/api/get-top-courses";
